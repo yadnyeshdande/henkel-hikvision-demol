@@ -1,0 +1,5 @@
+names:
+  0: fan
+path: D:/Yadnyesh/Projects/YOLO Trainer Tester/trainer test
+train: train/images
+val: val/images

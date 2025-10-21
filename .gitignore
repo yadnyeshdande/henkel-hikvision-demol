@@ -1,0 +1,35 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# YOLO files
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+logs/
+detection_system_*.log
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Training runs
+runs/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# OS files
+.DS_Store
+Thumbs.db

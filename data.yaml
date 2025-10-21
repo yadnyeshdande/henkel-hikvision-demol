@@ -1,0 +1,8 @@
+# YOLO training dataset config for this project
+# Ensure class 0 = blue_box and class 1 = yellow_mark
+train: trainer test/train
+val: trainer test/val
+nc: 2
+names:
+  0: blue_box
+  1: yellow_mark
